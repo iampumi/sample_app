@@ -7,6 +7,10 @@ gem 'rails', '3.1.4'
 
 gem 'sqlite3'
 
+gem 'json'
+
+gem 'jquery-rails'
+
 group :development do
    gem 'rspec-rails', '2.0.0.beta.18'
 end
